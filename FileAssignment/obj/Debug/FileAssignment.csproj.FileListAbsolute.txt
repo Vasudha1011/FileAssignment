@@ -1,0 +1,7 @@
+F:\Dotnet jan 2021\ConsoleAssignments\Files 25jan2021\FileAssignment\FileAssignment\bin\Debug\FileAssignment.exe.config
+F:\Dotnet jan 2021\ConsoleAssignments\Files 25jan2021\FileAssignment\FileAssignment\bin\Debug\FileAssignment.exe
+F:\Dotnet jan 2021\ConsoleAssignments\Files 25jan2021\FileAssignment\FileAssignment\bin\Debug\FileAssignment.pdb
+F:\Dotnet jan 2021\ConsoleAssignments\Files 25jan2021\FileAssignment\FileAssignment\obj\Debug\FileAssignment.csprojAssemblyReference.cache
+F:\Dotnet jan 2021\ConsoleAssignments\Files 25jan2021\FileAssignment\FileAssignment\obj\Debug\FileAssignment.csproj.CoreCompileInputs.cache
+F:\Dotnet jan 2021\ConsoleAssignments\Files 25jan2021\FileAssignment\FileAssignment\obj\Debug\FileAssignment.exe
+F:\Dotnet jan 2021\ConsoleAssignments\Files 25jan2021\FileAssignment\FileAssignment\obj\Debug\FileAssignment.pdb
